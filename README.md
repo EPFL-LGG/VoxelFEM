@@ -1,6 +1,10 @@
 VoxelFEM
 =========
 
+# Note on this fork
+The source [VoxelFEM](https://github.com/MeshFEM/VoxelFEM) was forked in June 2024.
+This repo serves as starting code base for the Summer internship project *Inverse Design of Elastic Spring*.
+
 <img src='http://julianpanetta.com/publication/layer_by_layer/teaser_hu1f7de7a219193e71c3c4bc0e101b48bb_204536_720x0_resize_lanczos_3.png' width='100%'/>
 
 This is the codebase for our SCF 2022 paper,
